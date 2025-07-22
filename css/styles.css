@@ -99,7 +99,15 @@ a {
   color: #2e2f42;
 }
 
-.item-title {
+.team .section-title {
+  text-transform: capitalize;
+}
+
+.portfolio .section-title {
+  text-transform: capitalize;
+}
+
+.team .item-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
